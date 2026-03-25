@@ -14,6 +14,7 @@
       }
     },
     "onCreateCommand": "bash .devcontainer/setup.sh",
+    "postStartCommand": "sudo /usr/local/share/docker-init.sh",
     "forwardPorts": [8501]
   }
   
