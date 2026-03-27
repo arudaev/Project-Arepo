@@ -10,13 +10,13 @@
 </h1>
 
 <p align="center">
-  <a href="https://github.com/codespaces/new?repo=HlexNC/Project-Arepo&machine=standardLinux32gb&devcontainer_path=.devcontainer/devcontainer.json">
+  <a href="https://github.com/codespaces/new?repo=arudaev/Project-Arepo&machine=standardLinux32gb&devcontainer_path=.devcontainer/devcontainer.json">
     <img src="https://github.com/codespaces/badge.svg" alt="Open in GitHub Codespaces">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/HlexNC/Project-Arepo">
+  <a href="https://github.com/arudaev/Project-Arepo">
     <img src="https://img.shields.io/badge/GitHub-Project_Apero-blue?style=flat-square&logo=github" alt="GitHub Badge">
   </a>
   <a href="https://www.python.org/downloads/release/python-390/">
@@ -117,7 +117,7 @@ The application is built using:
 
 1. **Clone the Repository**  
    ```bash
-   git clone https://github.com/HlexNC/Project-Arepo.git
+   git clone https://github.com/arudaev/Project-Arepo.git
    cd Project-Arepo
    ```
 
@@ -283,7 +283,7 @@ See the [LICENSE](LICENSE) file for details.
 ## Contact
 
 For inquiries, feedback, or suggestions:
-- **GitHub Issues**: [Project Apero Repository](https://github.com/HlexNC/Project-Arepo/issues)
+- **GitHub Issues**: [Project Apero Repository](https://github.com/arudaev/Project-Arepo/issues)
 - **Email**: Please refer to the repository maintainers’ profiles.
 
 We welcome contributions! Feel free to open a pull request or start a discussion in our GitHub repository.
