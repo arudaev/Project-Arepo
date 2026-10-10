@@ -5,9 +5,9 @@
    Inspired by Microsoft-style "Perfect README"
 -->
 
-<h1 align="center">
-  <img src="./docs/img/ASP_Banner.png" alt="Project Apero Banner" width="600"/>
-</h1>
+<p align="center">
+  <img src=".github/banner.png" alt="Project Apero – a hand-drawn banner: a laptop showing two charts and a chat column" width="100%">
+</p>
 
 <p align="center">
   <a href="https://github.com/codespaces/new?repo=arudaev/Project-Arepo&machine=standardLinux32gb&devcontainer_path=.devcontainer/devcontainer.json">
@@ -31,7 +31,7 @@
 </p>
 
 <h4 align="center">
-Project Apero is a comprehensive web application—originally developed as a university project—designed to help individuals assess their stroke risk and receive personalized recommendations. It leverages data analysis, machine learning, and a conversational chatbot interface to provide actionable health insights.
+Project Apero is a comprehensive web application–originally developed as a university project–designed to help individuals assess their stroke risk and receive personalized recommendations. It leverages data analysis, machine learning, and a conversational chatbot interface to provide actionable health insights.
 </h4>
 
 ---
@@ -62,7 +62,7 @@ Project Apero is a comprehensive web application—originally developed as a uni
 
 ## Project Description
 
-**Project Apero** provides an intuitive interface for users to input personal health metrics—such as age, gender, BMI, blood glucose levels, etc.—and receive an estimated probability of experiencing a stroke. It then offers evidence-based recommendations and insights to help reduce stroke risk.
+**Project Apero** provides an intuitive interface for users to input personal health metrics–such as age, gender, BMI, blood glucose levels, etc.–and receive an estimated probability of experiencing a stroke. It then offers evidence-based recommendations and insights to help reduce stroke risk.
 
 The application is built using:
 - **Streamlit** for the web front end
